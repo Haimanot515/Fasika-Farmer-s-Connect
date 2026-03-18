@@ -1,6 +1,6 @@
 <h1 align="center">Fasika Farmer’s Connect</h1>
 
-<h3 align="center">
+<h3 align="center"> 
   A modern agriculture-focused web platform that connects farmers, buyers, and agricultural stakeholders in one digital space.
 </h3> 
 
