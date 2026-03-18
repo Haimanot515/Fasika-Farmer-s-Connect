@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://fasika-farmers-connect-5r2h.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge" alt="Live Demo" />
+    <img src="https://img.shields.io/badge/_Live_Demo-View_Project-2ea44f?style=for-the-badge" alt="Live Demo" />
   </a>
   <a href="https://github.com/Haimanot515/Fasika-Farmer-s-Connect" target="_blank">
-    <img src="https://img.shields.io/badge/📂_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+    <img src="https://img.shields.io/badge/_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ This project aims to modernize the traditional agricultural marketplace by impro
 ###  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
