@@ -14,21 +14,21 @@ This project aims to modernize the traditional agricultural marketplace by creat
 
 ---
 
-## ✨ Features
+Features
 
-- 🌱 Farmer product listing and showcase
-- 🛒 Easy browsing of agricultural products
-- 🔍 Clean and responsive user interface
-- 📱 Mobile-friendly and responsive design
-- ⚡ Fast and interactive frontend experience
-- 🔗 Backend integration for data management
-- 📦 Organized full-stack project structure
+-  Farmer product listing and showcase
+-  Easy browsing of agricultural products
+- Clean and responsive user interface
+- Mobile-friendly and responsive design
+- Fast and interactive frontend experience
+- Backend integration for data management
+- Organized full-stack project structure
 
 ---
 
-## 🛠️ Tech Stack
+Tech Stack
 
-### Frontend
+ Frontend
 - **React.js**
 - **HTML5**
 - **CSS3**
@@ -41,14 +41,14 @@ This project aims to modernize the traditional agricultural marketplace by creat
 ### Database / Data Handling
 - JSON / API-based data handling *(update this if you used MongoDB or another database)*
 
-### Tools & Deployment
+ Tools & Deployment
 - **Git**
 - **GitHub**
 - **Render**
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 ```bash
 Fasika-Farmer-s-Connect/
