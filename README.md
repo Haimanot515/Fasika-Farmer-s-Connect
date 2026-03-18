@@ -1,12 +1,12 @@
-# 🌾 Fasika Farmer’s Connect
+Fasika Farmer’s Connect
 
 A modern agriculture-focused web platform that connects farmers, buyers, and agricultural stakeholders in one digital space. **Fasika Farmer’s Connect** helps improve communication, product visibility, and market access by allowing farmers to showcase their products while buyers can easily discover and connect with them.
 
-🔗 **Live Demo:** [View Project](https://fasika-farmers-connect-5r2h.onrender.com)
+**Live Demo:** [View Project](https://fasika-farmers-connect-5r2h.onrender.com)
 
 ---
 
-## 📌 Project Overview
+ Project Overview
 
 **Fasika Farmer’s Connect** is a full-stack web application designed to support the agricultural community by bridging the gap between farmers and consumers. The platform enables users to explore agricultural products, connect with farmers, and promote better digital access to farming-related opportunities.
 
