@@ -2,7 +2,7 @@
 
 <h3 align="center">
   A modern agriculture-focused web platform that connects farmers, buyers, and agricultural stakeholders in one digital space.
-</h3>
+</h3> 
 
 <img src="https://res.cloudinary.com/dq3jkpys8/image/upload/v1770186676/projects/mukxuhhhd91xpzp16sel.png" width="100%" style="border-radius:10px;" />
 
