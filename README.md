@@ -1,4 +1,4 @@
-<h1 align="center">🌾 Fasika Farmer’s Connect</h1>
+<h1 align="center">Fasika Farmer’s Connect</h1>
 
 <h3 align="center">
   A modern agriculture-focused web platform that connects farmers, buyers, and agricultural stakeholders in one digital space.
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Fasika Farmer’s Connect** is a full-stack web application designed to support the agricultural community by bridging the gap between farmers and buyers. The platform creates a digital space where farmers can showcase their agricultural products, while buyers and other stakeholders can easily browse, discover, and connect with them.
 
@@ -23,22 +23,22 @@ This project aims to modernize the traditional agricultural marketplace by impro
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🌱 **Farmer product listing and showcase**
-- 🛒 **Easy browsing of agricultural products**
-- 🔍 **Simple and user-friendly navigation**
-- 🎨 **Clean and responsive user interface**
-- 📱 **Mobile-friendly and responsive design**
-- ⚡ **Fast and interactive frontend experience**
-- 🔗 **Backend integration for data management**
-- 📦 **Well-organized full-stack project structure**
+-  **Farmer product listing and showcase**
+-  **Easy browsing of agricultural products**
+-  **Simple and user-friendly navigation**
+-  **Clean and responsive user interface**
+- **Mobile-friendly and responsive design**
+-  **Fast and interactive frontend experience**
+-  **Backend integration for data management**
+-  **Well-organized full-stack project structure**
 
----
 
-## 🛠️ Tech Stack
 
-### 💻 Frontend
+##  Tech Stack
+
+###  Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,17 +46,17 @@ This project aims to modernize the traditional agricultural marketplace by impro
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 🗄️ Database / Data Handling
+###  Database / Data Handling
 - **JSON / API-based data handling**  
   *(Update this section if you used MongoDB or any other database)*
 
-### 🚀 Tools & Deployment
+###  Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -65,7 +65,7 @@ This project aims to modernize the traditional agricultural marketplace by impro
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 Fasika-Farmer-s-Connect/
