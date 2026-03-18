@@ -3,7 +3,7 @@
 <h3 align="center">
   A modern agriculture-focused web platform that connects farmers, buyers, and agricultural stakeholders in one digital space.
 </h3>
-
+ 
 <p align="center">
   <a href="https://fasika-farmers-connect-5r2h.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/_Live_Demo-View_Project-2ea44f?style=for-the-badge" alt="Live Demo" />
