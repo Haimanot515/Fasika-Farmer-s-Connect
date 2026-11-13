@@ -6,7 +6,7 @@ async function checkRateLimit({ ipKey, userKey, ipLimit, userLimit, ipExpiry = 6
     const userAttempts = parseInt(await redis.get(userKey)) || 0;
 
     if (ipAttempts >= ipLimit || userAttempts >= userLimit) return false;
-
+ 
     // Multi command
     await redis.multi()
       .incr(ipKey)
